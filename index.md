@@ -1,5 +1,5 @@
-#<center>Gzpanxb's home page</center>
-##self introducing  
+# <center>Gzpanxb's home page</center>
+## self introducing  
 skill stack:
 - jquery
 - css3
