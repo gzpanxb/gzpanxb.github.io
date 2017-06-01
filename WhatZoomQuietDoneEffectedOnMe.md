@@ -107,6 +107,7 @@
 5. [哲思社区][5]
 6. [ECUG (Erlang China User Group)][6]
 7. [恶狼战役 ErlBattle][7]
+
 ### 项目
 1. [OBP Open Book Project](http://rtfd.qiniucdn.com/)
 2. [蟒营](http://code.google.com/p/kcpycamp/)
